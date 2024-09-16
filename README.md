@@ -2,7 +2,9 @@
 Coding Assignments from CS 412: Introduction to Data Mining @ UIUC FA'23
 
 Brief Overview:
+
 Homework 3:
+
 This project contains a Python implementation of various machine learning and statistical methods, primarily focusing on classification and cross-validation. Key components of the project include:
 1. Naive Bayes Classifier: my_Bayes_candy
 Functionality: Computes posterior probabilities using the Naive Bayes approach.
